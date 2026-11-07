@@ -1,0 +1,22 @@
+#game-title {
+    font-size: 2.3em;
+    font-style: italic;
+    font-family: Fantasy;
+    text-align:center;
+}
+
+hr{
+    width: 70%;
+    height: 3px;
+    background-color: black;
+}
+
+
+#game-container {
+    width:1280px;
+    height:800px;
+    margin:0 auto;
+    border:1px solid black;
+    display:flex;
+    justify-content:center;
+}
