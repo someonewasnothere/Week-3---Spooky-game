@@ -7,3 +7,5 @@ what concept should i do????
 -menu button witht their real id, job, or fun facts
 -they come up with their id and a speech and you have to check everything to see if they match
 
+-5 characters for now each with their own dialouge
+-dialouge gets randomized from a bunch of lists
